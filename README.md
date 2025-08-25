@@ -4,8 +4,8 @@ A simple Android application that displays current weather information for a spe
 This project demonstrates the use of modern Android development practices including Jetpack Compose for UI, Kotlin Coroutines for asynchronous operations, ViewModel for UI-related data, and Retrofit for networking.
 
 ## Screenshots of the application
-<img width="1080" height="2424" alt="Screenshot_20250825_131420" src="https://github.com/user-attachments/assets/d43f5223-4f49-4341-8e3e-1b68986caf1a" />
-<img width="1080" height="2424" alt="Screenshot_20250825_131344" src="https://github.com/user-attachments/assets/bfb7cbe8-d22e-490b-a604-99351abd7c0b" />
+<img width="540" height="1212" alt="Screenshot_20250825_131420" src="https://github.com/user-attachments/assets/d43f5223-4f49-4341-8e3e-1b68986caf1a" />
+<img width="540" height="1212" alt="Screenshot_20250825_131344" src="https://github.com/user-attachments/assets/bfb7cbe8-d22e-490b-a604-99351abd7c0b" />
 
 ## Features
 
